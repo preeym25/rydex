@@ -15,4 +15,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+
 Rydex is a technology-driven ride-sharing platform that connects travelers and drivers for safe, affordable, and efficient intercity transportation through verified user profiles and smart trip matching
