@@ -20,6 +20,8 @@ const connectDb = async() =>{
     }
     try{
         const conn = await cached.promise
+        cached.conn = conn
+        return conn
     }catch(error){
         console.log(error)
     }
